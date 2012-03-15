@@ -1,0 +1,3 @@
+This is a demonstration of collision detection against a signed distance field, running in Google's Native Client.  It is an evolution of another demo I put together of a fluid simulation running in Native Client.  Aside from working on making that demo faster I also wanted to give it some more interesting physics by putting the fluid in a more complicated environment than a box.  This is a result of working toward that.
+
+- Chris Lentini
